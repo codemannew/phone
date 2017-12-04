@@ -1,0 +1,10 @@
+body { background: url("9.jpg");
+       background-attachment: fixed;
+	   background-position: center;
+	   background-repeat: no-repeat;}
+#s3{ position: relative;
+			 bottom: 506px;
+			 left: 480px;}	
+#moto { position: absolute;
+			top:992px;
+left: 960px;}
